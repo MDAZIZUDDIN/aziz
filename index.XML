@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Bike Rider Club</title>
+    <link href="style.css" media="screen" rel="stylesheet"/>
+
+	<!-- Image Preloader -->
+	<script type="text/javascript" src="http://ajax.googlesapi.com/ajax/libs/jquery/jquery.min.js"></script>	
+	
+</head>
+
+<body>
+	<div id='top-background'>
+    	<div id='top-wrapper'>
+        	<!-- menu -->
+        	<div id='menu'>
+                <ul>
+                    <li class='menu-btn'><a href="#" id='selected'>HOME</a></li>
+                    <li class='divider'><img alt="" src="images/divider.png"/></li>
+                    <li class='menu-btn'><a href="#">ABOUT US</a></li>
+                    <li class='divider'><img alt="" src="images/divider.png"/></li>
+                    <li class='menu-btn'><a href="#">MEMBERS</a></li>
+                    <li class='divider'><img alt="" src="images/divider.png"/></li>
+                    <li class='menu-btn'><a href="#">EVENTS</a></li>
+                    <li class='divider'><img alt="" src="images/divider.png"/></li>
+                    <li class='menu-btn'><a href="#">GALLERY</a></li>
+                    <li class='divider'><img alt="" src="images/divider.png"/></li>
+                    <li class='menu-btn'><a href="#">LINKS</a></li>
+                    <li class='divider'><img alt="" src="images/divider.png"/></li>
+                    <li class='menu-btn'><a href="#">CONTACTS</a></li>
+                </ul>
+                <div style="clear:both;"></div>
+        	</div>
+            
+            <!-- banner -->
+            <div id='banner'>
+            	<div id='banner-content'>
+            		<div id='logo'><img alt="" src="images/logo.png"/></div>
+                    <div>
+                    	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam dui nulla, ultricies et, ultrices at, rhoncus sodales, eros.
+                    </div>
+                    <div class='more-btn'><a href="#"><img alt="" src="images/more-btn1.png" border="0"/></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- content -->
+    <div id='wrapper'>
+    	<div id='top-box'></div>
+        <div id='middle-box'>
+        	<!-- welcome -->
+            <div id='welcome'>
+            	<div class='title'>WELCOME TO OUR CLUB!</div>
+                <div>
+                	<p>This is a free and fully standards compliant css template. You can use it for your personal and commercial projects without any restrictions. The only stipulation to the use of this free template is that the links appearing in the footer remain intact.</p>
+                    <p>Beyond that, simply enjoy and have fun with it!</p>
+                </div>
+                <div class='more-btn'><a href="#"><img alt="" src="images/more-btn.png" border="0"/></a></div>
+                
+                <div id='content-divider'></div>
+                
+                <!-- newsletter signup -->
+                <div id='newsletter'>
+                	<form action="">
+                        <div id='newsletter-top'>NEWSLETTER SIGN UP</div>
+                        <div id='signup-box'>
+                        	<input type="text" value=""/>
+                        </div>
+                        <div id='subcribe-btn'><input type="image" src="images/subcribe-btn.png"/></div>
+                        <div style='clear:both;'></div>
+                        <div id='unsubcribe'><a href="#">Unsubcribe here</a></div>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- events -->
+            <div id='events'>
+            	<div style="margin-bottom:10px;"><img alt="" src="images/photo1.jpg"/></div>
+            	<div class='title'>LATEST EVENT</div>
+                <div>
+                	Donec dignissim, lacus eu ultricies sollicitudin, nibh nisi dictum ante, eget accumsan ipsum tellus vel neque. Vivamus leo pede, cursus eu, bibendum ac, viverra id, nisl. Nullam at urna. Curabitur ac tortor. Curabitur dui sem, vulputate id, dapibus id, lobortis at, urna. Sed felis dui, pretium vel, lobortis eget, pharetra ut, urna. Curabitur in lacus..
+                </div>
+                <div class='more-btn'><a href="#"><img alt="" src="images/more-btn.png" border="0"/></a></div>
+            </div>
+            
+            <!-- news -->
+            <div id='news'>
+            	<div id='news-top'>NEWS &amp; EVENTS</div>
+                <div id='news-blue'>
+                	<div class='sub-title'>DONEC DIGNISSIM</div>
+                    <div>
+                    	ultricies sollicitudin, nibh nisi dictum ante, eget accumsan ipsum tellus vel neque. Vivamus leo pede, cursus euvbn mkljuo.
+                    </div>
+                </div>
+                <div id='more-news1'><a href="#">MORE</a></div>
+                <div id='news-gery'>
+                	<div class='sub-title'>DONEC DIGNISSIM</div>
+                    <div>
+                    	ultricies sollicitudin, nibh nisi dictum ante, eget accumsan ipsum tellus vel neque. Vivamus leo pede, ipsum tellus cursus euvbn mkljuo nmbhgyumj.
+                    </div>
+                </div>
+                <div id='more-news2'><a href="#">MORE</a></div>
+            </div>
+            
+            <div style="clear:both;"></div>
+        </div>
+        <div id='bottom-box'></div>
+    </div>
+    
+    <!-- footer -->
+    <div id='footer'>
+    	<div style="float:left; clear:none; margin-bottom:10px;">&copy; Bike Rider Club. All rights reserved.</div>
+        <div style="clear:both;"></div>
+    </div>
+    <div align="center">
+		<table align="center" cellspacing="0" cellpadding="5" border="0" style="margin: -45px -540px 0px 0px;">
+			<tr valign="middle">
+				<td><a href="http://www.hosting24.com/" target="_blank"><img alt="Web hosting" src="images/img_link_01.png" height="15" width="80" border="0" /></a></td>
+				<td><a href="http://www.youhosting.com/" target="_blank"><img alt="Reseller hosting" src="images/img_link_02.png" height="15" width="80" border="0" /></a></td>
+				<td><a href="http://www.vps.me/" target="_blank"><img alt="VPS hosting" src="images/img_link_03.png" height="15" width="80" border="0" /></a></td>
+				<td><a href="http://www.hostinger.com/" target="_blank"><img alt="Web Hosting" src="images/img_link_04.png" height="15" width="80" border="0" /></a></td>
+				<td><a href="http://www.boxbilling.com/" target="_blank"><img alt="Billing software" src="images/img_link_05.png" height="25" width="54" border="0" /></a></td>
+			</tr>
+		</table>
+	</div>     
+</body>
+</html>
